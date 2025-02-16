@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * 
+ */
+module HealthMonitoringServer {
+	requires nanohttpd;
+}
